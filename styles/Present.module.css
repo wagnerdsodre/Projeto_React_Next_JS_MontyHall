@@ -1,0 +1,30 @@
+.present{
+  position: relative;
+  width: 176px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+  .tampa{
+    width: 120px;
+    height: 20px;
+    background-color: rgb(24, 105, 88);
+  }
+  .corpo{
+    width: 100px;
+    height: 80px;
+    background-color: rgb(19, 230, 177);
+  }
+  .lacov{
+    position: absolute;
+    width: 20px;
+    height: 100px;
+    background-color: rgb(196, 196, 196);
+  }
+  .lacoh{
+    position: absolute;
+    top:40px;
+    width: 100px;
+    height: 20px;
+    background-color: rgb(196, 196, 196);
+  }
